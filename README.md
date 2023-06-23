@@ -5,8 +5,7 @@
 [![boiledEgg-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiledEgg-s)](https://github.com/boiledEgg-s/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boiledEgg-s)](https://github.com/boiledEgg-s/github-readme-stats)
 
-# SKILLS
--
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+# TOOLS
+![Intellij](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=#000000)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
