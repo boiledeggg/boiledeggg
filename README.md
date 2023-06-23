@@ -10,7 +10,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-and working on spring-boot `(*>﹏<*)′
+*and working on spring-boot `(*>﹏<*)′*
 
 ### 🛠️ Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
@@ -18,4 +18,5 @@ and working on spring-boot `(*>﹏<*)′
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-*Let's work hard to be a better person today than yesterday's*
+
+***Let's work hard to be a better person today than yesterday's***
