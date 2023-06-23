@@ -22,5 +22,10 @@
 ```C
 int main(void){
     printf("Let's work hard to be a better person today than yesterday's");
+    if(today > yesterday){
+        printf("Welldone");
+    } else {
+        printf("Rare");    
+    }
 }
 ```
