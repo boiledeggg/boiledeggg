@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
-```
+```C
 int main(void){
     printf("Let's work hard to be a better person today than yesterday's");
 }
