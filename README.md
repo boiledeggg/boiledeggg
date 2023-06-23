@@ -18,4 +18,4 @@ and working on spring-boot `(*>﹏<*)′
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-어제보다 나은 오늘을 살자!
+##To be a better person than Yesterday
