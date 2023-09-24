@@ -17,15 +17,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-
-
-```C
-int main(void){
-    printf("Let's work hard to be a better person today than yesterday");
-    if(today > yesterday){
-        printf("Welldone");
-    } else {
-        printf("Rare");    
-    }
-}
-```
