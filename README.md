@@ -9,7 +9,7 @@
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?&style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-*and working on spring-boot `(*>﹏<*)′*
+*and working on Hadoop `(*>﹏<*)′*
 
 ### 🛠️ Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
