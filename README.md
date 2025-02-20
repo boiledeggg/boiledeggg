@@ -1,4 +1,4 @@
-[![boiledEgg-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiledEgg-s)](https://github.com/boiledEgg-s/github-readme-stats)
+[![boiledEgg-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiledeggg)](https://github.com/boiledEgg-s/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjun2000)](https://solved.ac/seokjun2000/)
 
 ### 💻 SKILLS
