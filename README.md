@@ -36,7 +36,10 @@
 <br>
 
 ## Misc.
-[![boiledEgg-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiledeggg)](https://github.com/boiledEgg-s/github-readme-stats)
+[![boiledEgg-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=boiledeggg)](https://github.com/boiledEgg-s/github-readme-stats) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjun2000)](https://solved.ac/seokjun2000/)
+
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=boiledeggg&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/boiledeggg"
@@ -44,5 +47,3 @@
   height="200"
 />
 </a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjun2000)](https://solved.ac/seokjun2000/)
