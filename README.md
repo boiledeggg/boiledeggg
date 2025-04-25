@@ -15,13 +15,12 @@
 <a href="https://github.com/My-Version/Android"><img src="https://github.com/user-attachments/assets/d12c8426-be12-4fbe-82a0-720805081d87" width="70"/></a> 
 <a href="https://github.com/teamterning/Terning-Android"><img src="https://github.com/user-attachments/assets/90e4b01e-85db-4c51-972d-c3a11ecf41c9" width="70"/></a> 
 <a href="https://github.com/ku-ring/KU-Ring-Android"><img src="https://github.com/user-attachments/assets/e186769d-5ea1-4a54-a431-cf0d2bd4423b" width="70"/></a> 
-<a href="https://github.com/napzakmarket/Napzak-Android"><img src="https://github.com/user-attachments/assets/ba29a77b-d9ce-4938-8613-71edcfc1da2e" width="70"/></a> 
+<a href="https://github.com/napzakmarket/Napzak-Android"><img src="https://github.com/user-attachments/assets/e0404779-1061-4585-b027-0555f6f669ec" width="70"/></a> 
 
 - **[<a href="https://github.com/My-Version/Android">MyVersion</a>]** Android 1인 개발 (2024.03 ~ 2024.11)    
 - **[<a href="https://github.com/teamterning/Terning-Android">Terning</a>]** Android 개발 (2024.06 ~ 진행 중)    
 - **[<a href="https://github.com/ku-ring/KU-Ring-Android">KuRing</a>]** Android 개발 (2024.09 ~ 진행 중)     
 - **[<a href="https://github.com/napzakmarket/Napzak-Android">Napzak Market</a>]** Android 리드 개발 (2024.12 ~ 진행 중)      
-
 
 
 <br>
