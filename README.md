@@ -36,8 +36,6 @@
 
 ## Misc.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokjun2000)](https://solved.ac/seokjun2000/)
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=boiledeggg&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/boiledeggg"
