@@ -18,7 +18,7 @@
 <a href="https://github.com/napzakmarket/Napzak-Android"><img src="https://github.com/user-attachments/assets/e0404779-1061-4585-b027-0555f6f669ec" width="70"/></a> 
 
 - **[<a href="https://github.com/My-Version/Android">MyVersion</a>]** Android 1인 개발 (2024.03 ~ 2024.11)    
-- **[<a href="https://github.com/teamterning/Terning-Android">Terning</a>]** Android 개발 (2024.06 ~ 진행 중)    
+- **[<a href="https://github.com/teamterning/Terning-Android">Terning</a>]** Android 개발 (2024.06 ~ 2025.11)    
 - **[<a href="https://github.com/ku-ring/KU-Ring-Android">KuRing</a>]** Android 개발 (2024.09 ~ 진행 중)     
 - **[<a href="https://github.com/napzakmarket/Napzak-Android">Napzak Market</a>]** Android 리드 개발 (2024.12 ~ 진행 중)      
 
